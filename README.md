@@ -9,5 +9,10 @@ Para ver el código de los bots en [Glitch](https://glitch.com/) tenéis aquí l
 
 Por si queréis probar el código en local, os lo dejo en el repositorio. Recordad que para que el bot funcione tendréis que tener el token del bot como variable de entorno:
 ```{bash}
-export TELEGRAM_TOKEN=568102648:AAGmo5J5k2dmMk46lyv8XnVieaN_QMzBjYU
+$ export TELEGRAM_TOKEN=568102648:AAGmo5J5k2dmMk46lyv8XnVieaN_QMzBjYU
 ```
+
+---
+
+### Créditos
+http://telegra.ph/Creando-Bots-en-Telegram-06-09
