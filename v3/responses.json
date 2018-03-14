@@ -1,0 +1,34 @@
+{
+  "start":{
+    "es": "¡Bienvenido [{}](tg://user?id={})!\n\nPara ver el funcionamiento del bot, escribe /help",
+    "en": "Welcome [{}](tg://user?id={})!\n\nTo see how this bot works, type /help"
+  },
+  "stop":{
+    "es": "¡Hasta pronto [{}](tg://user?id={})!",
+    "en": "Bye [{}](tg://user?id={})!"
+  },
+  "help":{
+    "es": "Bienvenido a [{}](tg://user?id={}).\n\nEl funcionamiento de este bot es realmente simple, solo escribe el nombre de cualquier pokemon y si existe te mostraré algo de información sobre este :D\n\nCon la versión 2, también funciono inline así que puedes usarme en cualquier chat escribiendo:\n\t@{} PokémonName\n\nAquí tienes un ejemplo que podrás copiar fácilmente:\n\t`@{} pikachu`\n\nCon la versión 3, podrás seleccionar entre inglés y español con el comando /lang",
+    "en": "Welcome to [{}](tg://user?id={}).\n\nThe usage of this bot is really simple, just type the name of any Pokémon and if it exists, I will show you some information about it :D\n\nWith v2, I also work inline so you can use me in any chat just by typing:\n\t@{} PokémonName\n\nHere is an example you can easily copy:\n\t`@{} pikachu`\n\nWith v3 you can also select the language between English and Spanish with the command /lang"
+  },
+  "poke_info":{
+    "es": "[⁣]({sprite})Pokémon: *{name}*\nAltura: *{height}* m\nPeso: *{weight}* kg\nTipos:\n*\t· {types}*\nHabilidades:\n*\t· {abilities}*",
+    "en": "[⁣]({sprite})Pokémon: *{name}*\nHeight: *{height}* m\nWeight: *{weight}* kg\nTypes:\n*\t· {types}*\nAbilities:\n*\t· {abilities}*"
+  },
+  "basic_info":{
+    "es": "Información básica",
+    "en": "Basic information"
+  },
+  "error": {
+    "es": "Error. Pokémon no encontrado",
+    "en": "Error. Pokémon not found"
+  },
+  "lang":{
+    "es": "Tu idioma actual es: *Español*\n\nUtiliza los botones de abajo para cambiar el idioma del bot",
+    "en": "Your current language is: *English*\n\nUse the buttons from bellow to change the bot language"
+  },
+  "lang_updated":{
+    "es": "Idioma actualizado a: *Español*\n\nUtiliza los botones de abajo para cambiar el idioma del bot",
+    "en": "Language updated to: *English*\n\nUse the buttons from bellow to change the bot language"
+  }
+}
