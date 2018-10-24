@@ -11,6 +11,9 @@ Por si queréis probar el código en local, os lo dejo en el repositorio. Record
 ```{bash}
 $ export TELEGRAM_TOKEN=568102648:AAGmo5J5k2dmMk46lyv8XnVieaN_QMzBjYU
 ```
+---
+
+### [Tutorial más básico de creación de bots](http://codigodiario.me/alguien-dijo-bots-telegram/)
 
 ---
 
